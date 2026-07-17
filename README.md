@@ -12,16 +12,23 @@ Clique no ícone 🔗 para acessar o material.
 </tr>
 
 <tr>
-<td>📄 APOSTILA - REDES DE COMPUTADORES.pdf</td>
+<td>📄 APOSTILA - REDES DE COMPUTADORES</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1J2Lfwppjty7vKB1ut0G-6uAT1Mii2Xmf/view?usp=drive_link" target="_blank">🔗</a>
 </td>
 </tr>
 
 <tr>
-<td>📄 Comandos rede.pdf</td>
+<td>📄 Comandos de Rede</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/11uc2AKxDQmwKcUm40-L5d9jzY6cpfJIF/view?usp=drive_link"_blank">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>📄 Cisco PacketTracer</td>
+<td align="center">
+<a href="https://drive.google.com/file/d/1SEott-J8GjO10KvJ0GcxSnPjXkRMpvDJ/view?usp=drive_link"_blank">🔗</a>
 </td>
 </tr>
 
