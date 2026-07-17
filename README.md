@@ -12,7 +12,7 @@ Clique no ícone 🔗 para acessar o material.
 </tr>
 
 <tr>
-<td>📄 APOSTILA - REDES DE COMPUTADORES</td>
+<td>📄 Apostila - Redes de Computadores</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1J2Lfwppjty7vKB1ut0G-6uAT1Mii2Xmf/view?usp=drive_link" target="_blank">🔗</a>
 </td>
