@@ -21,7 +21,7 @@ Clique no ícone 🔗 para acessar o material.
 <tr>
 <td>📄 Comandos rede.pdf</td>
 <td align="center">
-<a href="https://drive.google.com/file/d/SEU_ID_2/view" target="_blank">🔗</a>
+<a href="https://drive.google.com/file/d/11uc2AKxDQmwKcUm40-L5d9jzY6cpfJIF/view?usp=drive_link"_blank">🔗</a>
 </td>
 </tr>
 
